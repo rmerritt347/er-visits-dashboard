@@ -21,7 +21,7 @@ This interactive Tableau dashboard visualizes:
 
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/rasheeda.merritt/viz/U_S_EmergencyDepartmentVisitTrends2016/Dashboard1)
 
-![Dashboard Preview](dashboard_full.png)
+![Dashboard Preview](Screenshot%202025-06-10%20at%205.54.41%20PM.png)
 
 Data Source
 
