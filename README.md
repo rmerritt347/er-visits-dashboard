@@ -25,8 +25,7 @@ This interactive Tableau dashboard visualizes:
 
 Data Source
 
-[View the Cleaned Google Sheet](https://docs.google.com/spreadsheets/d/1ju8iSyfFkcw7Pm0BD2hNq2DRmtg16FX8ilabjePtqts/view)**
-
+[View the Cleaned Google Sheet](https://docs.google.com/spreadsheets/d/1ju8iSyfFkcw7PmQBD2MhQ2DRmtgl6FX8ilabjePIqts/edit?usp=sharing)
 
 
 Author
