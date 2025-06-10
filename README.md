@@ -19,15 +19,17 @@ This interactive Tableau dashboard visualizes:
 - Visit rates per 100,000 by demographic (e.g., age, sex, region, insurance)
 - Patterns by year and diagnosis level
 
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/rasheeda.merritt/viz/U_S_EmergencyDepartmentVisitTrends2016/Dashboard1)
 
+![Dashboard Preview](er_visits_dashboard.png)
 
 Data Source
 
-**[View the Cleaned Google Sheet](https://docs.google.com/spreadsheets/d/1ju8iSyfFkcw7Pm0BD2hNq2DRmtg16FX8ilabjePtqts/view)**
+[View the Cleaned Google Sheet](https://docs.google.com/spreadsheets/d/1ju8iSyfFkcw7Pm0BD2hNq2DRmtg16FX8ilabjePtqts/view)**
 
 
 
 Author
 
-**Rasheeda Merritt**  
+Rasheeda Merritt  
 [LinkedIn](https://www.linkedin.com/in/rasheeda-merritt) • [Tableau Public](https://public.tableau.com/app/profile/rasheeda.merritt)
